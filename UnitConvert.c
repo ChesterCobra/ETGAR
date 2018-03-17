@@ -3,7 +3,6 @@
 #define KG 0.4536*POUNDS
 #define CM 2.54*INCHES
 #define LITER 3.785*GALLONS
-/*created by shalev*/
 
 int main()
 {
